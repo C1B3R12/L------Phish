@@ -1,0 +1,4 @@
+if os.path.exists('ngrok'):
+      pass
+else:
+      baixar_ngrok()
