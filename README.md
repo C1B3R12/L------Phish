@@ -6,7 +6,7 @@ Uma pequena ferramenta de phishing escrita em Python3 com a API Thanatos
 ### Debian / Kali / Ubuntu / Termux
 ```
 apt install python git python3-pip
-git clone 
+git clone https://github.com/C1B3R12/L------Phish
 cd L---Phish
 chmod +x *
 ./main.py
@@ -14,7 +14,7 @@ chmod +x *
 ### Arch
 ```
 pacman -S python git python3-pip
-git clone 
+git clone https://github.com/C1B3R12/L------Phish
 cd L---Phish
 chmod +x *
 ./main.py
