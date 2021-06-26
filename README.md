@@ -32,9 +32,11 @@ chmod +x *
 
 ## Features
 * Telas dinâmicas
+
 Adicione fácilmente novas telas ao script como bem entender
-* ~~ Web scrapping ~~ (Em breve)
-~~ Obtenha e produza fácilmente suas próprias telas ~~
+* Web scrapping (Em breve)
+
+Obtenha e produza fácilmente suas próprias telas
 
 ## Planos para o futuro
 * Web scrapper como extra
