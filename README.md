@@ -48,3 +48,5 @@ Obtenha e produza fácilmente suas próprias telas
 ## Contato
 ### Telegram
 Yato: @yato_br
+## Contribuição
+Pix : `228463d7-0bec-44bd-bddd-a780d9530f27`
